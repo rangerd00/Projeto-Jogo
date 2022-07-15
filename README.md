@@ -1,7 +1,7 @@
 # Projeto-Jogo
 
 
-# Getting Started
+# Getting Started (ALPHA)
 
 
 
