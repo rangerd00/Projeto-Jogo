@@ -1,19 +1,19 @@
 # Projeto-Jogo
 
 
-# Getting Started (ALPHA)
+
+
+➔ Getting Started
 
 
 
 
-# The Plan
+➔ The Plan
 
 
-  Main features to come:
+    Main features to come:
 
 
 
 
-# Short term goals :
-
-# Its not a Bug but a Feature ;)
+➔ Short term goals :
